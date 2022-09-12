@@ -1,0 +1,16 @@
+{
+  "name": "cypressparttwotaskthree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:dash": "cypress run --record --key d79dcbc8-3d65-453b-b6c3-718743308beb"
+  },
+  "keywords": [],
+  "author": "alexander",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "eslint": "^8.23.1"
+  }
+}
